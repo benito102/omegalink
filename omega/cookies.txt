@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.zyrosite.com	TRUE	/	FALSE	1999999999	__cfduid	da1ff7ff21638b8b618af7372ff31d6a81593681091
+omegatournaments.zyrosite.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
